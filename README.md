@@ -68,14 +68,6 @@
 
 ---
 
-### 📚 Currently Learning
-
-<p>
-  <img src="https://img.shields.io/badge/Solana-9945FF?logo=solana&logoColor=white" />
-  <img src="https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI%20Agent-5c5c5c?logo=OpenAI&logoColor=white" />
-</p>
-
 <p align="center">⭐️ Thanks for visiting my profile! ⭐️</p>
 
 <div align="center">
