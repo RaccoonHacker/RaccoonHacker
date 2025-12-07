@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFAA,100:0066FF&height=250&section=header&text=Raccoon%20Hacker&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40" />
-</div>
+<h1 align="center">Raccoon Hacker</h1>
 
 <p align="center">
   💻 Full Stack Developer | 🌐 Web3 Builder | 🚀 Always Shipping  
