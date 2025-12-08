@@ -17,7 +17,7 @@
 
 #  🛠️ Tech Stack
 
-### 🔹 Programming Languages
+### 🔹 Programming Language
 <p>
   <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white" />
