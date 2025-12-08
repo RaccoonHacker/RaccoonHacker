@@ -30,7 +30,7 @@
 
 ---
 
-### 🔹 Frontend Development
+### 🔹 Frontend Developments
 <p>
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Vue-4FC08D?logo=vue.js&logoColor=white" />
@@ -41,7 +41,7 @@
 
 ---
 
-### 🔹 Backend & System Development
+### 🔹 Backend & System Developments
 <p>
   <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-4285F4?logo=cplusplus&logoColor=white" />
