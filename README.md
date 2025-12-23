@@ -30,7 +30,7 @@
 
 ---
 
-### 🔹 Frontend Development
+### 🔹 Frontend Developments
 <p>
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Vue-4FC08D?logo=vue.js&logoColor=white" />
