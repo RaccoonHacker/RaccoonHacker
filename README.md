@@ -70,6 +70,21 @@
 
 ---
 
+### 🔹 Blockchains Involved
+
+<p>
+  <img src="https://img.shields.io/badge/Solana-9945FF?logo=solana&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?logo=ethereum&logoColor=white" />
+  <img src="https://img.shields.io/badge/Chainlink-375BD2?logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/Injective-0052FF?logo=injective&logoColor=white" />
+  <img src="https://img.shields.io/badge/0G_Labs-000000?logo=0g&logoColor=white" />
+  <img src="https://img.shields.io/badge/Starknet-000000?logo=starknet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Polkadot-E6007A?logo=polkadot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sui-4DA2FF?logo=sui&logoColor=white" />
+</p>
+
+---
+
 <p align="center">⭐️ Thanks for visiting my profile! ⭐️</p>
 
 <div align="center">
