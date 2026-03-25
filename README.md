@@ -56,6 +56,9 @@
 
 ### 🔹 Web3 & Blockchain
 <p>
+  <img src="https://img.shields.io/badge/Anchor-1C1C1C?logo=anchor&logoColor=white" />
+  <img src="https://img.shields.io/badge/Solana_Web3.js-14F195?logo=solana&logoColor=black" />
+  <img src="https://img.shields.io/badge/Viem-000000?logo=wagmi&logoColor=white" />
   <img src="https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=white" />
   <img src="https://img.shields.io/badge/Hardhat-fcc72b?logo=ethereum&logoColor=black" />
   <img src="https://img.shields.io/badge/Foundry-000000?logo=forge&logoColor=white" />
@@ -63,7 +66,6 @@
   <img src="https://img.shields.io/badge/Move-F9A03F?logo=facebook&logoColor=white" />
   <img src="https://img.shields.io/badge/Cairo-000000?logo=starknet&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenZeppelin-4E5EE4?logo=openzeppelin&logoColor=white" />
-  <img src="https://img.shields.io/badge/Chainlink-375BD2?logo=chainlink&logoColor=white" />
 </p>
 
 ---
